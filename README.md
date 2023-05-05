@@ -7,4 +7,4 @@ My personal website (which is also a kind a CV) located at https://jedi2light.mo
 My most featured projects at the moment:
  - [ChiakiLisp](https://github.com/jedi2light/ChiakiLisp.git) - yet another LISP interpreter written in pure Python 3 language
 
-I'm currently working and not seeking for new proposals, however, fill free to add me to your potential coworkers list, dear recrutiers!
+I'm currently open for new proposals, I'll be glad to be a valuable part of your project team! Check my skills and experience on the website!
